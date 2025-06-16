@@ -109,7 +109,7 @@ http://<EC2-PUBLIC-IP>:8082
 - Ensure port `8082` is open in your EC2 security group.
 - To change the port, modify the `docker run` line in the `Jenkinsfile`. Example:
     ```groovy
-    sh 'docker run -itd -p 9090:80 dockerfile'
+    sh 'docker run -itd -p 8082:80 dockerfile'
     ```
 
 
