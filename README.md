@@ -7,7 +7,7 @@ This project demonstrates how to create a Jenkins pipeline job that builds a Doc
 
 ## 🔧 Project Objective
 
-To Automate the deployment of a simple static HTML page using Jenkins CI/CD pipeline and Docker, hosted on an AWS EC2 instance.
+Automate the deployment of a simple static HTML page using Jenkins CI/CD pipeline and Docker, hosted on an AWS EC2 instance.
 
 ---
 
