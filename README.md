@@ -96,7 +96,7 @@ After pushing your changes to GitHub, Jenkins picks up the commit via the webhoo
 
 ## 🌍 Result
 
-You can access your deployed HTML page at:
+You can access the deployed HTML page at:
 
 ```
 http://<EC2-PUBLIC-IP>:8082
